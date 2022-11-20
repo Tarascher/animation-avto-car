@@ -75,7 +75,7 @@
   animation-timing-function: ease-in-out;
 }
 
-#text {
+/*#text {
   position: absolute;
   margin-top: 1100px;
 }
@@ -101,4 +101,4 @@
   animation-iteration-count: 3;
   animation-direction: alternate;
   animation-fill-mode: forwards;
-}
+}*/
